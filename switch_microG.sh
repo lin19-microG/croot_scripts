@@ -90,6 +90,7 @@ switch_branches $BRANCH1 packages/modules/DnsResolver
 switch_branches $BRANCH1 packages/modules/NetworkStack
 switch_branches $BRANCH1 packages/modules/Permission
 switch_branches $BRANCH1 packages/modules/Wifi
+switch_branches $BRANCH1 packages/providers/MediaProvider
 switch_branches $BRANCH1 system/core
 switch_branches $BRANCH1 system/sepolicy
 switch_branches $BRANCH1 vendor/lineage
