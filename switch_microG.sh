@@ -82,6 +82,7 @@ switch_branches $BRANCH1 build/soong
 switch_branches $BRANCH1 frameworks/base
 switch_branches $BRANCH1 frameworks/native
 switch_branches $BRANCH1 libcore
+switch_branches $BRANCH1 packages/apps/Jelly
 switch_branches $BRANCH1 packages/apps/LineageParts
 switch_branches $BRANCH1 packages/apps/Settings
 switch_branches $BRANCH1 packages/apps/Trebuchet
